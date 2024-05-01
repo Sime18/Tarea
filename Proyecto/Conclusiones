@@ -1,0 +1,23 @@
+El aprendizaje en la construcción de código en lenguaje Java implica un nivel importante de concentración y atención al detalle. 
+Es fundamental para fortalecer el conocimiento de las metodologías de trabajo y optimizar los tiempos en el desarrollo de la actividad.
+En el contexto del desarrollo de software, se utilizan diferentes metodologías para optimizar el proceso de trabajo en equipo. 
+Una de estas metodologías es Scrum, que es una metodología ágil ampliamente utilizada. Scrum se basa en la colaboración, la adaptabilidad y la entrega incremental de software. 
+Permite una mayor flexibilidad y capacidad de respuesta a los cambios en los requisitos del proyecto.
+Además, la generación de un código en cascada es otro enfoque común en el desarrollo de software. Este enfoque implica una secuencia lineal de etapas, donde cada etapa depende de la finalización de la anterior.
+Esto facilita la comprensión del código para otros programadores y permite una mejor organización y estructura del proyecto.
+La fácil comprensión del código facilita la colaboración entre programadores. 
+Cuando el código es claro y comprensible, los programadores pueden leerlo y entenderlo rápidamente, lo que mejora la comunicación y la eficiencia del trabajo en equipo. 
+La fácil comprensión del código también permite que los programadores colaboren de manera más efectiva al discutir ideas, enfrentar desafíos y resolver problemas juntos. 
+Además, cuando el código es fácil de entender, es más probable que los programadores puedan identificar y corregir errores de manera más rápida y precisa. 
+En resumen, la fácil comprensión del código es fundamental para fomentar la colaboración efectiva entre programadores.
+
+Elementos que se dificultaron
+
+Durante el desarrollo de proyectos en Java utilizando el gestor Eclipse, los programadores pueden enfrentar diversas dificultades. A continuación, describimos algunas de las que se nos presentaron durante el proceso:
+La configuración inicial del entorno de desarrollo puede ser un desafío para los programadores principiantes. Esto implica instalar y configurar el JDK (Java Development Kit) y el IDE Eclipse correctamente.
+Java es un lenguaje de programación que puede ser más complejo en comparación con otros lenguajes. 
+A diferencia de algunos lenguajes en los que se puede escribir un programa "Hola Mundo" en una o dos líneas, en Java se requiere escribir varias líneas de código, lo que puede parecer complicado al principio.
+Durante el desarrollo de proyectos en Java, los programadores pueden enfrentar dificultades en la gestión de dependencias. 
+Esto implica asegurarse de que todas las bibliotecas y dependencias necesarias estén correctamente configuradas y actualizadas en el proyecto. 
+La depuración de estos errores puede llevar tiempo y requerir habilidades de resolución de problemas por parte del programador. 
+El IDE Eclipse proporciona herramientas de depuración que pueden ayudar en este proceso.
